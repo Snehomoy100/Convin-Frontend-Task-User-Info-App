@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "User Info App",
+  "name": "Click on any button to get random user data",
   "icons": [
     {
       "src": "favicon.ico",
